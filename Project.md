@@ -3,7 +3,11 @@
 ## Header level 2
 
 *This text is written in italics*
+
+
 **This text is written in bold**
+
+
 ***This text is written in both italics and bold***
 
 1. JAVA
